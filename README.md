@@ -1,7 +1,7 @@
-- 👋 ¡Hola!
-- 💻 Soy fullstack web developer.
-- 👀 Estoy interesado en el desarrollo de Software, Sistemas Operativos y Videojuegos
-- 🌱 Actualmento me encuentro aprendiendo Ensamblador, C y C++ de manera formal
+- 👋 Hi!
+- 💻 I'm a fullstack Web Developer y Low Level Developer.
+- 👀 I'm interested in Software Development, Web Development, Operating Systems and Videogames.
+- 🌱 Currently I'm studying ARM Assembly, C and C++
 - 📫 
 
 <!---
