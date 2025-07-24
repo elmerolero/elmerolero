@@ -1,8 +1,6 @@
 - 👋 Hi!
-- 💻 I'm a fullstack Web Developer y Low Level Developer.
-- 👀 I'm interested in Software Development, Web Development, Operating Systems and Videogames.
-- 🌱 Currently I'm studying ARM Assembly, C and C++
-- 📫 
+- 💻 I'm a fullstack Web Developer
+- 📫 isma dot salas 24 at g00gl3 email dot com
 
 <!---
 elmerolero/elmerolero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
